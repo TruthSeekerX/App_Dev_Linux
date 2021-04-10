@@ -18,4 +18,6 @@ void evaluation(int *, int *);
 void classification(int *, int *);
 void output_results(int *, int *, int *);
 
-//This is added from linux bash
+//This is added from linux bash 
+//This is added from Github
+//Now they are merged
